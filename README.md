@@ -4,4 +4,8 @@ This is awesome project
 # Author
 
 Author
+
 ## Some new section here
+
+## Conflict
+
